@@ -1,1 +1,3 @@
-test
+preprocessing.py文件为VSM源码
+KNN.py为KNN源码，需要用到VSM生成的向量作为数据
+homework1report.pdf为实验报告
