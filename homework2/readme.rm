@@ -1,0 +1,4 @@
+Document为各个类的预处理结果
+prepro.py是对20news-18828的处理程序
+naiveByes为贝叶斯分类器
+其余文档为中间环节函数的输出
